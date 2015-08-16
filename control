@@ -1,0 +1,9 @@
+Package: com.sassoty.bubblecolor
+Name: BubbleColor
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change bubble color :D
+Maintainer: Sassoty <sassoty@gmail.com>
+Author: Sassoty <sassoty@gmail.com>
+Section: Tweaks
